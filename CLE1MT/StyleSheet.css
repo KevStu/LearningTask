@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F7CCAC;
+}
+#title h1 {
+    width: 1300px;
+    height: 150x;
+    margin: 20px 20px;
+    padding: 10px;
+    color: #717262;
+    background-color:beige;
+}
+head{
+    width: 100%;
+    height: 70%;
+}
+#nav {
+    width: 80%;
+    height: 30px;
+    margin: 10px auto;
+}
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+#nav a {
+    display: block;
+    width: 60px;
+    padding: 2px;
+    margin: 4px;
+}
+#nav li {
+    display: inline;
+    float: left;
+}
+#nav a:hover{
+    color: #3A3845;
+    text-decoration: none;
+    background-color: #826F66;
+}
+#nav a:link #nav a:visited {
+    color: #826F66;
+    text-decoration: none;
+    background-color: #3A3845; 
+}
+#box1 img{
+    display: block;
+    margin: 0 auto;
+}
+#box1 h1{
+    margin: 20px;
+    color: #717262;
+}
+#box1 p{
+    text-align: center;
+    margin: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#box2 img{
+    display: block;
+    margin: 50px;
+    float: left;
+}
+#box3 p{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#box3 img{
+    display: block;
+    margin: 0 auto;
+}
+#box4 p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    background: beige;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
